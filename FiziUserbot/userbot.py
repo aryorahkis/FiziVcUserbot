@@ -126,7 +126,7 @@ async def repo(client, m: Message):
 🥜 Deployment Userbot
 💜 Heroku
 
- [𝗗𝗘𝗣𝗟𝗢𝗬 𝗞𝗘 𝗛𝗘𝗥𝗢𝗞𝗨](https://heroku.com/deploy?template=https://github.com/fjgaming212/Userbot-Music)
+ [𝗗𝗘𝗣𝗟𝗢𝗬 𝗞𝗘 𝗛𝗘𝗥𝗢𝗞𝗨](https://heroku.com/deploy?template=https://github.com/zeinzo/FiziVcUserbot)
 
 📚 Variabel Yang Dibutuhkan
 • `API_ID` - Dapatkan Dari [my.telegram.org](https://my.telegram.org)
