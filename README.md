@@ -1,4 +1,4 @@
-##### 🎶 Music Dan Video Player UserBot 🎶
+##### 🎶 Fizi - UserBot 🎶
 ### 🤖 Telegram UserBot Untuk Memutar Lagu Dan Video Di Obrolan Suara Telegram.
 
 ## ✨ Didukung Oleh 
@@ -30,7 +30,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fjgaming212/Userbot-Music)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeinzo/FiziVcUserbot)
 
 
 ### 📚 Variabel Yang Dibutuhkan
@@ -42,6 +42,7 @@
 
 
 ### KREDIT ✨
+- **[Fizi](https://t.me/tdrki_1)**
 - **[Skyzo](https://github.com/ridho17-ind)**
 - **[Tomi](https://github.com/XtomiSN)**
 - **[FlicksSupport](https://t.me/FlicksSupport)**
