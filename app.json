@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/fjgaming212/Userbot-Music",
+    "repository": "https://github.com/zeinzo/FiziVcUserbot",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
