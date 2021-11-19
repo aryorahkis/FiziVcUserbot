@@ -45,7 +45,6 @@
 - **[Fizi](https://t.me/tdrki_1)**
 - **[Skyzo](https://github.com/ridho17-ind)**
 - **[Tomi](https://github.com/XtomiSN)**
-- **[FlicksSupport](https://t.me/FlicksSupport)**
-- **[Group Music Random](https://t.me/GroupMusicRandom)**
+- **[support](https://t.me/lunasupportgroup)**
 - **[Dan](https://github.com/delivrance) For [Pyrogram](https://github.com/pyrogram/pyrogram)**
 - **[Laky](https://github.com/Laky-64) For [PyTgCalls](https://github.com/pytgcalls/pytgcalls)**
